@@ -1,0 +1,5 @@
+Question1 : With the use of matrix we can solven above problem.
+
+Question 2: Pattern exception could be one for using "+".
+
+Question 3: Frankly, I dont know the answer of the question.
